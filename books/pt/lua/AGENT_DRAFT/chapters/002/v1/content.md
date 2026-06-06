@@ -1,0 +1,91 @@
+# Capítulo 002 — «Cheiro Novo» · v1
+
+*Próximo do rascunho da autora. Cronológico, passado, lírico. Experiência sensorial de Lua. Terceira pessoa limitada.*
+
+---
+
+Duas semanas não é muito tempo. Lua não contava os dias — não havia forma de o fazer — mas tinha feito o seu padrão deles: o Senhor Abílio de manhã, a tigela cheia, depois ele ia embora e o apartamento ficava em silêncio outra vez.
+
+O cheiro de Filomena estava ainda por todo o lado. No tecido da cadeira, nas persianas, nos livros da prateleira, na chávena amarela junto ao fogão. Mas era o tipo de cheiro que fica em sítios depois das pessoas. Não era o cheiro de uma pessoa que existe e se move.
+
+---
+
+O Senhor Abílio chegou às dez da manhã, como nos dias anteriores. Abriu com a chave — a chave que tinha desde há quinze anos — chamou «Lua?» em voz baixa, como chamava quando queria saber onde ela estava, e foi à cozinha encher a tigela.
+
+Ficou um pouco junto à janela da cozinha a olhar para a rua.
+
+— A Inês vem hoje — disse.
+
+Disse-o para a janela, ou para o apartamento, ou para ninguém em particular. Lua estava no parapeito da sala e não se mexeu.
+
+Ele lavou a tigela do dia anterior, deixou água fresca, verificou se havia comida suficiente. Depois foi-se embora.
+
+O apartamento ficou em silêncio.
+
+---
+
+O táxi parou lá em baixo às três da tarde. Lua estava no parapeito e ouviu — a porta do táxi, vozes na rua, a porta do prédio. Passos nas escadas: cinco lances, quarenta e dois degraus. Ela contava-os pelo som. Depois a chave na fechadura.
+
+Não a chave do Senhor Abílio. Uma chave diferente. O som era igual mas a mão era diferente — havia uma hesitação pequena, como quem ainda não conhecia bem a fechadura.
+
+A porta abriu.
+
+A mulher entrou.
+
+Lua ficou no parapeito e não se mexeu.
+
+A mulher cheirava a muitas coisas. Comboio — o cheiro de plástico e ar condicionado que vinha com ela de dentro do casaco. Um sabonete que não era o sabonete do estante da casa de banho. A cidade do Porto, que era outra coisa que a cidade de Lisboa, embora Lua não tivesse nome para a diferença. E por baixo de tudo isso alguma coisa mais quente, mais familiar — não de Filomena, mas da mesma família que Filomena. Como dois cheiros do mesmo sítio.
+
+A mulher ficou parada no corredor e olhou para a sala.
+
+Viu Lua no parapeito.
+
+— Lua — disse.
+
+Não a chamar. A confirmar.
+
+Lua olhou para ela. A mulher olhou para Lua. Depois a mulher pôs a mochila no sofá e foi até à janela e ficou a olhar para fora para o bairro.
+
+---
+
+O Senhor Abílio veio às seis. Bateu à porta — desta vez bateu, não usou a chave — e a mulher abriu. Ficaram no corredor um momento, depois na cozinha. Lua ouvia as vozes mas estava no quarto, no chão, junto à cama.
+
+O Senhor Abílio tinha a voz que usava quando havia coisas a tratar. A mulher tinha a voz de quem está a escutar e a tentar perceber ao mesmo tempo. Depois ele foi-se embora.
+
+A mulher ficou.
+
+Lua ouviu-a ir de divisão em divisão. Diferente de Filomena — mais depressa em alguns sítios, mais devagar noutros. Abriu o roupeiro. Abriu a gaveta onde Filomena guardava as cartas. Ficou de pé junto à janela do quarto durante um tempo.
+
+Lua saiu do quarto e foi para o corredor.
+
+A mulher notou. Ficou parada.
+
+Lua ficou parada também.
+
+Ficaram assim um bocado. Depois a mulher foi à cozinha.
+
+---
+
+Eram quase nove da noite quando a mulher abriu o armário da cozinha e parou à frente das prateleiras. Lua foi para a soleira da cozinha e ficou parada.
+
+A mulher olhou para as prateleiras. Olhou para Lua. Olhou para as prateleiras outra vez. Havia um lugar onde a tigela estava — junto ao fogão, no chão — e havia um lugar onde as latas estavam, que era a prateleira da esquerda em baixo.
+
+Lua não se mexeu.
+
+A mulher pegou numa das latas. Olhou à volta à procura do abre-latas. Não estava no sítio mais óbvio — estava na gaveta ao pé do fogão, a gaveta com as coisas miúdas. A mulher abriu três gavetas antes de encontrá-lo.
+
+Abriu a lata. O som era o mesmo. O mesmo que Filomena fazia, o mesmo que o Senhor Abílio fazia. Pôs o conteúdo na tigela e colocou a tigela no chão junto ao fogão.
+
+Depois ficou de pé um momento. Depois sentou-se no chão.
+
+Com as costas na porta do armário de baixo, as pernas esticadas à frente. Olhou para a parede à frente.
+
+A chávena amarela estava junto ao fogão, no mesmo sítio onde sempre esteve.
+
+Lua olhou para a tigela. Para a mulher. Para a tigela.
+
+Atravessou a cozinha e comeu.
+
+A mulher não se mexeu enquanto ela comia. Quando Lua acabou, voltou para a soleira e ficou parada. A mulher continuava no chão, a olhar para a parede.
+
+Nenhuma delas se mexeu durante muito tempo.

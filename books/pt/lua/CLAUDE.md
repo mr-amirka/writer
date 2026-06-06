@@ -25,8 +25,8 @@ Uma gata chamada Lua espera no parapeito à janela por uma mulher que não vai a
 | Personagem aprovada: Filomena | `APPROVED/universe/characters/filomena.md` |
 | Personagem aprovada: Inês | `APPROVED/universe/characters/ines.md` |
 | Estilo narrativo | `APPROVED/universe/styles/main.md` |
-| Último capítulo aprovado | `APPROVED/chapters/001.md` |
-| Estado após o último capítulo | `AGENT_DRAFT/chapters/001/v1/state-snapshot.md` |
+| Último capítulo aprovado | `APPROVED/chapters/002.md` |
+| Estado após o último capítulo | `AGENT_DRAFT/chapters/002/v1/state-snapshot.md` |
 
 ---
 

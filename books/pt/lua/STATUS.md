@@ -29,7 +29,7 @@ Prioridade: **APPROVED > USER_DRAFT > AGENT_DRAFT**
 | Capítulo | USER_DRAFT | Variantes do Agente | APPROVED | Nota |
 |---------|-----------|----------------|---------|------|
 | 001 | ✓ | v1 v2 v3 | ✓ v1 | Autora escolheu v1, ligeira edição do final |
-| 002 | ✓ | v1 v2 v3 | — | Aguarda selecção da autora |
+| 002 | ✓ | v1 v2 v3 | ✓ v1 | Autora escolheu v1 (demo) |
 
 ### Universo
 
@@ -47,7 +47,6 @@ Prioridade: **APPROVED > USER_DRAFT > AGENT_DRAFT**
 
 ## Decisões a Aguardar da Autora
 
-- [ ] Seleccionar variante do capítulo 002 entre v1 / v2 / v3
 - [ ] Existe epígrafe? (nota da autora: possivelmente Sophia de Mello Breyner ou Eugénio de Andrade)
 - [ ] Confirmar: PoV estritamente Lua ao longo de todo o livro, sem excepções?
 
@@ -62,4 +61,5 @@ Prioridade: **APPROVED > USER_DRAFT > AGENT_DRAFT**
 | — | Autora aprovou universo | world v1, Lua v2, Filomena v1, Inês v1, estilo main v1 |
 | — | Geração do capítulo 001 (v1, v2, v3) | Concluída |
 | — | Autora aprovou capítulo 001 | v1 com edição do final |
-| — | Geração do capítulo 002 (v1, v2, v3) | Concluída. Aguarda selecção. |
+| 2026-06-06 | Geração do capítulo 002 (v1, v2, v3) | Concluída |
+| 2026-06-06 | Autora aprovou capítulo 002 | v1 (demo) |

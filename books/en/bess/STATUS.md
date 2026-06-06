@@ -29,7 +29,7 @@ Priority: **APPROVED > USER_DRAFT > AGENT_DRAFT**
 | Chapter | USER_DRAFT | Agent Variants | APPROVED | Note |
 |---------|-----------|----------------|---------|------|
 | 001 | ✓ | v1 v2 v3 | ✓ v1 | Author selected v1, minor ending edit |
-| 002 | ✓ | v1 v2 v3 | — | Awaiting author's selection |
+| 002 | ✓ | v1 v2 v3 | ✓ v1 | Author selected v1 (demo) |
 
 ### Universe
 
@@ -47,7 +47,6 @@ Priority: **APPROVED > USER_DRAFT > AGENT_DRAFT**
 
 ## Awaiting Author's Decisions
 
-- [ ] Select chapter 002 variant from v1 / v2 / v3
 - [ ] Is there an epigraph? (author note: possibly Ted Hughes or R.S. Thomas)
 - [ ] Confirm: PoV strictly Bess throughout, no exceptions?
 
@@ -62,4 +61,5 @@ Priority: **APPROVED > USER_DRAFT > AGENT_DRAFT**
 | — | Author approved universe | world v1, Bess v2, Henry v1, Anna v1, style main v1 |
 | — | Chapter 001 generation (v1, v2, v3) | Complete |
 | — | Author approved chapter 001 | v1 with ending edit |
-| — | Chapter 002 generation (v1, v2, v3) | Complete. Awaiting selection. |
+| 2026-06-06 | Chapter 002 generation (v1, v2, v3) | Complete |
+| 2026-06-06 | Author approved chapter 002 | v1 (demo) |

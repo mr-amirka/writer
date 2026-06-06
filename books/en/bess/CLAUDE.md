@@ -25,8 +25,8 @@ A border collie named Bess waits at the foot of the stairs for a man who will no
 | Approved character: Henry | `APPROVED/universe/characters/henry.md` |
 | Approved character: Anna | `APPROVED/universe/characters/anna.md` |
 | Narrative style | `APPROVED/universe/styles/main.md` |
-| Last approved chapter | `APPROVED/chapters/001.md` |
-| State after last chapter | `AGENT_DRAFT/chapters/001/v1/state-snapshot.md` |
+| Last approved chapter | `APPROVED/chapters/002.md` |
+| State after last chapter | `AGENT_DRAFT/chapters/002/v1/state-snapshot.md` |
 
 ---
 

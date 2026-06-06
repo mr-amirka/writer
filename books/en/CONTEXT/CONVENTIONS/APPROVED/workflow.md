@@ -1,60 +1,31 @@
-# Agent Conventions — English domain
+# Convention: Workflow — English Domain
 
-Rules for AI agent behavior when working with books in English.
-Read together with `/CLAUDE.md`.
-Books and domain context: `books/en/`
-
----
-
-## Language and Communication
-
-- All responses and texts — **in English**, unless the author explicitly requests otherwise.
-- When discussing structure or variants — concise, no filler.
-- Don't explain what's obvious from code or file structure.
+Migrated from `CONTEXT/CONVENTIONS/index.md` · 2026-06-06 15:30
+Status of all points below: `accepted` (in use since 2026-06-05)
 
 ---
 
-## Text Formatting
+## CONV-007 · Working with Variants
+`#CONV-007` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
-### Dialogue
-English standard: quotation marks, not em dashes.
-```
-"Are you sure?" he asked.
-"No," she replied. "But there's no other way."
-```
-Em dash — only for interrupted speech or action beats within a line: "I can't—" she started.
-Typographic quotes ("curly") preferred over straight quotes.
-
-### Paragraphs
-- Dialogue — always a new paragraph.
-- Speaker action — same paragraph as the line, following the closing quote.
-- Scene or time change — blank line + `* * *`.
-
-### Numbers in text
-Under ten — spelled out. 10 and above — numerals in action scenes, spelled out in meditative passages.
-
----
-
-## Working with Variants
-
-When creating v1 / v2 / v3 for each chapter:
+Create v1 / v2 / v3 for each chapter or major universe element:
 
 | Variant | Focus |
 |---------|-------|
-| v1 | Closest to USER_DRAFT: preserves author's voice and intent, minimal deviation |
-| v2 | Structural rewrite: different pace, different point of view or event order |
-| v3 | Bold experiment: different tone, unconventional opening, shift to a different register |
+| v1 | Closest to USER_DRAFT — preserves author's voice and intent, minimal deviation |
+| v2 | Structural rewrite — different pace, point of view, or event order |
+| v3 | Bold experiment — different tone, unconventional opening, genre register shift |
 
-Don't make variants superficially different — each must offer a genuine choice.
+Do not make variants superficially different. Each must offer a genuine, meaningful choice.
 
 **Each variant includes three files:** `content.md` + `short.md` + `state-snapshot.md`.
-This lets the author compare not just the text, but the world state after each variant.
 
 ---
 
-## Chapter Transition Protocol
+## CONV-008 · Chapter Transition Protocol
+`#CONV-008` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
-Required before writing chapter N:
+Required reading before writing chapter N:
 1. `APPROVED/chapters/{N-1}.short.md` — what happened
 2. `state-snapshot.md` of the approved variant of chapter N-1 — where everyone is
 3. `PLAN.md` — what should happen in N
@@ -68,11 +39,12 @@ Do not begin a chapter without this context.
 
 **Static vs. dynamic:**
 - `APPROVED/universe/` — permanent facts (biographies, world rules, pre-book history). Changes rarely, only on author instruction.
-- `state-snapshot.md` — current state after the last chapter (location, emotions, artifact status). Filled by the agent after each variant.
+- `state-snapshot.md` — current state after the last chapter (locations, emotions, artifact status). Filled by the agent after each variant.
 
 ---
 
-## Styles and RELEASES
+## CONV-009 · Styles and RELEASES
+`#CONV-009` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
 - A style lives in `APPROVED/universe/styles/{name}.md`.
 - When building a RELEASE the agent takes `APPROVED/chapters/` and rewrites in the voice of the style.
@@ -81,7 +53,8 @@ Do not begin a chapter without this context.
 
 ---
 
-## Space Priority
+## CONV-010 · Space Priority
+`#CONV-010` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
 ```
 APPROVED  >  USER_DRAFT  >  AGENT_DRAFT
@@ -91,7 +64,10 @@ When facts conflict between spaces — the higher-priority space wins.
 The agent never puts anything into AGENT_DRAFT that contradicts USER_DRAFT or APPROVED.
 Contradiction found — recorded in `STATUS.md → Pending decisions`, not fixed unilaterally.
 
-## What the Agent Does NOT Do Without Explicit Instruction
+---
+
+## CONV-011 · What the Agent Does NOT Do Without Explicit Instruction
+`#CONV-011` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
 - Does not edit `USER_DRAFT/`.
 - Does not move content to `APPROVED/` — only the author does that.
@@ -103,29 +79,18 @@ Contradiction found — recorded in `STATUS.md → Pending decisions`, not fixed
 
 ---
 
-## Chapter Size
-
-**Minimum:** 4,000 words — fewer is a fragment, not a chapter.
-**Target range:** 7,000–12,000 words — standard for literary prose.
-**Maximum without justification:** 18,000 words. Longer only if the content demands it.
-
-If a chapter comes in shorter than minimum — record the reason in `state-snapshot.md` (section "Warnings").
-Consistency matters more than any specific number: deviation from the book's average should not exceed 40%.
-
-Detailed analysis: `CONTEXT/RESEARCH/craft/02_chapter_size.md`
-
----
-
-## Chapter Numbering
+## CONV-012 · Chapter Numbering
+`#CONV-012` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
 Always three digits with leading zeros: `001`, `002`, `099`, `100`.
-This ensures correct alphabetical sorting up to chapter 999.
+Ensures correct alphabetical sorting up to chapter 999.
 
 ---
 
-## Status and Concept Files
+## CONV-013 · Status and Concept Files
+`#CONV-013` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
-**`STATUS.md`** — agent work tracker. The agent updates it with every status change for a variant or universe element. Structure: tables with phase columns (USER_DRAFT → AGENT_DRAFT → APPROVED). Not to be confused with PLAN.md (narrative plan, not work tracker).
+**`STATUS.md`** — agent work tracker. Updated with every status change for a variant or universe element. Structure: tables with phase columns (USER_DRAFT → AGENT_DRAFT → APPROVED). Not to be confused with PLAN.md (narrative plan, not work tracker).
 
 **`BRIEF.md`** — one-page book document. Includes genre, audience, characters, structure, **and theme, moral, anti-moral, and physical anchors**. Agent reads it before each task for the book.
 
@@ -135,7 +100,8 @@ This ensures correct alphabetical sorting up to chapter 999.
 
 ---
 
-## Research Methodology
+## CONV-014 · Research Methodology
+`#CONV-014` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
 For any analysis — market, genre, structural — the agent follows the methodology in `CONTEXT/RESEARCH/craft/03_how_to_research.md`.
 
@@ -145,7 +111,8 @@ Minimum 4 slices for a new book project: market, reader, competitive, prose.
 
 ---
 
-## Naming and Consistency
+## CONV-015 · Naming and Consistency
+`#CONV-015` · claude-sonnet-4-6 · 2026-06-05 12:00 · `accepted`
 
 The folder name in `RELEASES/` must exactly match the style filename in `APPROVED/universe/styles/`.
 - Style `main.md` → folder `RELEASES/main/`
@@ -153,3 +120,27 @@ The folder name in `RELEASES/` must exactly match the style filename in `APPROVE
 - No aliases (`raw`, `default`, `base`).
 
 Contents of `RELEASES/{style}/index.md` — full book text, not links to other files.
+
+---
+
+## CONV-016 · Git Commits
+`#CONV-016` · claude-sonnet-4-6 · 2026-06-06 · `accepted`
+
+All commits must be made solely in the owner's name. No agent attribution — no `Co-Authored-By:`, no model IDs, no AI tool signatures of any kind in commit messages or metadata.
+
+The commit history is the author's record, not the agent's.
+
+## CONV-016-A · Commit Message Proposal
+`#CONV-016-A` · claude-sonnet-4-6 · 2026-06-06 · `accepted`
+
+Before making any commit, the agent must propose the commit message and wait for the owner's approval. Never commit silently or immediately.
+
+Format of the proposal:
+```
+Proposed commit message:
+> {message}
+
+Commit?
+```
+
+Only commit after explicit confirmation. If the owner edits the message — use the edited version verbatim.
