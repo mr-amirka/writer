@@ -51,7 +51,7 @@ Deliberate departures work as rhythmic devices:
 
 ## Specifics of Quiet Fiction
 
-For books in the "quiet fiction" or "literary fiction" style — slow, observational prose — the standard recommendation: **5,000–8,000 words**.
+For books like *The Last Field* (`books/en/bess/`) — slow, observational prose — the standard recommendation: **5,000–8,000 words**.
 
 Why not longer: quiet prose depends on detail and rhythm — when stretched, they lose weight.
 Why not shorter: the scene needs time to accumulate atmosphere. At 2,000 words — the reader hasn't "arrived" yet.

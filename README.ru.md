@@ -167,8 +167,8 @@ books/ru/_template/  →  books/ru/моя-книга/
 
 Доступные домены:
 - `books/ru/` — Русский (активен, включает демо-книгу `mur/`)
-- `books/en/` — English (шаблон готов)
-- `books/pt/` — Português (шаблон готов)
+- `books/en/` — English (активен, включает демо-книгу `bess/`)
+- `books/pt/` — Português (активен, включает демо-книгу `lua/`)
 
 ---
 

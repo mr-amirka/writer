@@ -1,0 +1,62 @@
+# Chapter 001 — "The Morning He Didn't Come Down" / Variant v1
+
+**Source:** `USER_DRAFT/chapters/001.md`
+**Variant:** v1 — chronological, close to author's draft; Bess's PoV from before dawn to Tom's arrival
+**Style:** `APPROVED/universe/styles/main.md`
+**Words:** ~680
+
+---
+
+Bess woke before five, the way she always did.
+
+She went to the foot of the stairs and sat down. This was where she waited. Ten years of mornings had made a shape of it — the particular patch of flagstone, the smell of the hall around her, the sound of the house settling in the cold. She had waited here every morning since she was eight weeks old and Henry had brought her in from the yard in his coat pocket.
+
+Henry came down at five-thirty.
+
+She waited.
+
+The kitchen light under the door went from dark to grey. She knew this meant the sky was changing outside — she could hear it in the way the farmyard sounds shifted, the sheep beginning to move in the bottom field. Grey meant it was getting on for five-thirty. Five-thirty meant the creak of the bedroom floor, the weight of his feet on the top stair, the particular sound his knees made on the third step from the bottom.
+
+None of it came.
+
+She waited longer. The light under the kitchen door went from grey to pale gold. That was the sun, coming over the ridge. She knew this without knowing she knew it. The sun meant past seven. Henry was never in bed past six.
+
+She got up. Went to the kitchen door, stood against it. The room was cold. The range had been left to go out the night before — she could tell from the quality of the smell, the absence of the hot-metal edge that meant it was burning. Henry never left it to go out.
+
+She went back to the stairs.
+
+The smell was wrong. She had known this since she woke, known it the way she knew things — not in any language, not in pictures, but in the difference between how Henry smelled when he was asleep upstairs and how he smelled now. He smelled like the house. Cold. Still. The warmth that meant someone alive and moving had left his smell.
+
+She went up the stairs.
+
+She almost never went up the stairs. The bedroom was Henry's place. She understood this the way she understood the three fields — not as a rule, but as the shape of things. She paused at the top, the carpet unfamiliar under her paws, and then she pushed at the bedroom door with her nose.
+
+It swung open.
+
+Henry was in the bed. She crossed to him. The smell was very clear now — she had no word for it, only the knowledge of it, the difference between sleep and this. She touched his hand with her nose.
+
+His hand was cold.
+
+She lay down beside the bed on the floor and put her head on her paws.
+
+She stayed there.
+
+---
+
+Tom arrived at seven-fifteen. He came round the back the way he always did, unlatching the yard gate, crossing the cobbles, letting himself in through the kitchen door with his own key. He called "Henry?" once, the way he called it every morning, a sound that wasn't quite a question.
+
+Then he saw Bess at the top of the stairs.
+
+He was quiet for a moment.
+
+Then he said her name. Quietly. Not calling her down — just saying it. The way you say something when you want to make sure you're still there.
+
+She didn't move.
+
+He went up.
+
+Later there were other people. Cars she didn't know in the yard. Voices. Someone opened a window in the bedroom and she heard the cold air come in. She had gone by then to her place in the kitchen, beside the range that was not lit.
+
+The flat cap was on its hook by the kitchen door.
+
+She lay under it and waited.

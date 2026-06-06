@@ -167,8 +167,8 @@ Cada `books/{iso}/` é independente. Adicionar um novo idioma significa criar um
 
 Domínios disponíveis:
 - `books/ru/` — Russo (activo, inclui livro demo `mur/`)
-- `books/en/` — Inglês (template pronto)
-- `books/pt/` — Português (template pronto)
+- `books/en/` — Inglês (activo, inclui livro demo `bess/`)
+- `books/pt/` — Português (activo, inclui livro demo `lua/`)
 
 ---
 

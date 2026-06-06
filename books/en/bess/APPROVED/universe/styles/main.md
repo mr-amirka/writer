@@ -1,0 +1,40 @@
+# Style: Main ✦ APPROVED
+
+**Approved from:** `AGENT_DRAFT/universe/styles/main/v1.md`
+
+---
+
+## Voice
+
+The narrator records. Does not comment. Does not reassure. Says what is there.
+Distance is medium — close to Bess, but not merged with her.
+Emotion lives in the gap between what the dog notices and what the reader understands.
+
+## Vocabulary Register
+
+Neutral, concrete, plain English. Nothing decorative.
+
+**Used often:** smelled, was, became, wasn't, waited, returned, lay down, sat, quiet
+**Never:** "a wave of grief", "tears pricked", "the pain was overwhelming" — no pre-assembled emotions.
+
+## Rhythm
+
+Short and medium sentences. Simple constructions.
+In the most important moments — the shortest sentences.
+
+## Emphases
+
+**In detail:** smells, temperature, specific physical objects.
+**Omitted:** psychology, motivation, explanation. The reader supplies these.
+
+## Reference Transformations (standard)
+
+> "The range had gone cold. That had never happened before."
+
+> "She lay down. She waited. She was good at waiting."
+
+> "Anna sat on the kitchen floor. Bess stood in the doorway. Neither of them moved."
+
+## Dialogue
+
+Minimal. Short lines. Stage directions are action, not feeling.

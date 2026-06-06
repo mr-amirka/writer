@@ -167,8 +167,8 @@ Each `books/{iso}/` is independent. Adding a new language means creating a new d
 
 Available domains:
 - `books/ru/` — Russian (active, includes demo book `mur/`)
-- `books/en/` — English (template ready)
-- `books/pt/` — Portuguese (template ready)
+- `books/en/` — English (active, includes demo book `bess/`)
+- `books/pt/` — Portuguese (active, includes demo book `lua/`)
 
 ---
 

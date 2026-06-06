@@ -209,8 +209,8 @@ USER_DRAFT/universe/    →    AGENT_DRAFT/universe/    →    APPROVED/universe
 | ISO | Язык | Статус |
 |-----|------|--------|
 | `ru` | Русский | `books/ru/` — активен, есть книга `mur/` |
-| `en` | English | `books/en/` — шаблон готов |
-| `pt` | Português | `books/pt/` — шаблон готов |
+| `en` | English | `books/en/` — активен, есть книга `bess/` |
+| `pt` | Português | `books/pt/` — активен, есть книга `lua/` |
 
 ---
 

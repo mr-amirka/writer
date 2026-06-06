@@ -51,7 +51,7 @@ Desvios deliberados funcionam como recursos rítmicos:
 
 ## Especificidades da Prosa Quieta (quiet fiction)
 
-Para livros de prosa lenta e observacional — o padrão recomendado: **15 000–25 000 caracteres** (~2 500–4 200 palavras).
+Para livros como *A Casa Depois* (`books/pt/lua/`) — prosa lenta e observacional — o padrão recomendado: **15 000–25 000 caracteres** (~2 500–4 200 palavras).
 
 Por que não mais longo: a prosa quieta sustenta-se nos detalhes e no ritmo — quando esticada, perdem peso.
 Por que não mais curto: a cena precisa de tempo para acumular atmosfera. Com 8 000 caracteres — o leitor ainda não «entrou».
